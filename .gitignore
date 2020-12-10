@@ -1,0 +1,8 @@
+# Ignore all data files
+*.csv
+*.npy
+
+# Ignore all submission files
+*.tex
+*.pdf
+*.zip
